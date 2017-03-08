@@ -1,6 +1,7 @@
 # Stopwatch tasks by Worawat Chueajedton (5910545825) (*)
 I ran the tasks on a lenovo ideapad y700, and got
 these results:
+
 |Task | Time|
 |-----------------------------------------|-------:|
 |Append 50,000 chars to String            | 0.986557 sec|
